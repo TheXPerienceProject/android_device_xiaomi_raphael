@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cos_raphael.mk
+    $(LOCAL_DIR)/xperience_raphael.mk
