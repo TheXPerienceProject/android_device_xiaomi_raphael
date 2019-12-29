@@ -53,6 +53,8 @@ ifeq ($(TARGET_PREBUILT_KERNEL),)
 endif
 
 # Platform
+BOARD_USES_QCOM_HARDWARE := true
+TARGET_BOARD_PLATFORM := msmnile
 TARGET_BOARD_PLATFORM_GPU := qcom-adreno640
 
 # APEX
