@@ -56,7 +56,7 @@ static void set(const std::string& path, const T& value) {
 } // anonymous namespace
 
 namespace vendor {
-namespace xpe {
+namespace xperience {
 namespace biometrics {
 namespace fingerprint {
 namespace inscreen {

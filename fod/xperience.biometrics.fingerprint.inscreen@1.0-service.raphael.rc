@@ -1,5 +1,5 @@
 service fingerprint-inscreen-1-0 /system/bin/hw/xperience.biometrics.fingerprint.inscreen@1.0-service.raphael
-    interface vendor.xpe.biometrics.fingerprint.inscreen@1.0::IFingerprintInscreen default
+    interface vendor.xperience.biometrics.fingerprint.inscreen@1.0::IFingerprintInscreen default
     class hal
     user system
     group system
